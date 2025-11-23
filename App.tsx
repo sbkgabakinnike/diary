@@ -109,7 +109,7 @@ const App: React.FC = () => {
       <nav className="bg-stone-800 text-stone-100 py-4 px-6 shadow-md flex justify-between items-center">
         <div className="flex items-center gap-3">
           <Book className="text-stone-300" />
-          <h1 className="text-xl font-serif font-bold tracking-wider">나만의 비밀 일기장</h1>
+          <h1 className="text-xl font-serif font-bold tracking-wider">일기</h1>
         </div>
         <div>
           {isLoggedIn ? (
