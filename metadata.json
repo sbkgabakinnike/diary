@@ -1,0 +1,5 @@
+{
+  "name": "Personal Diary",
+  "description": "A simple, secure personal diary application with calendar navigation and Gemini AI integration.",
+  "requestFramePermissions": []
+}
